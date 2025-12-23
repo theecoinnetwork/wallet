@@ -655,6 +655,9 @@ No! TheeCoin has ZERO transaction fees. All transfers are completely free, forev
 
 </div>
 
+<br>
+<br>
+
 <div align="center">
 
 ## 🌟 Join the Financial Revolution
