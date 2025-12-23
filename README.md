@@ -360,12 +360,12 @@ TheeCoin Wallet includes **revolutionary business features** designed for real-w
 
 ### 📝 Quick Start Guide
 
-#### 1️⃣ Download & Install
+#### 1️⃣ Download & Execute
 
 <p align="center">
 <pre>
 # Download the wallet for your platform
-# Run the installer
+# Run the program
 # Launch TheeCoin Wallet
 </pre>
 </p>
