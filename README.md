@@ -154,8 +154,8 @@ TheeCoin Wallet implements **military-grade security** that protects against bot
 
 ### 🔐 Multi-Layer Protection
 
-<div align="center">
-```
+<p align="center">
+<pre>
 ┌─────────────────────────────────────────┐
 │   Multi-Algorithm Cascade (10,000x)    │
 │  SHA-512 → SHA3-512 → BLAKE2b-512 →    │
@@ -173,7 +173,8 @@ TheeCoin Wallet implements **military-grade security** that protects against bot
 │  Millions of qubits + thousands of      │
 │  years needed even with quantum tech    │
 └─────────────────────────────────────────┘
-```
+</pre>
+</p>
 
 </div>
 
