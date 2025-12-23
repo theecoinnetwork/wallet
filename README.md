@@ -638,22 +638,10 @@ TheeCoin represents the future of cryptocurrency—instant, private, quantum-res
 ### 🚀 Get Started Today
 
 **📥 Download** the wallet for your platform
+<br>
 **🔐 Create** your secure wallet with 24-word recovery phrase
+<br>
 **💰 Start Using** TheeCoin mine, stake, send, receive, and shop instantly
-
-### 🎯 Why Wait?
-
-⚡ **Instant transactions** with zero fees
-<br>
-🔒 **Complete privacy** your financial freedom matters
-<br>
-💎 **Early adoption advantage** get in before mass adoption
-<br>
-🆓 **Free mining** no expensive hardware needed
-<br>
-💰 **Staking rewards** earn up to 100% annually
-<br>
----
 
 </div>
 
