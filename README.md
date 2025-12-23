@@ -196,7 +196,8 @@ TheeCoin features a unique time-based mining system that's fair, accessible, and
 
 #### How It Works
 
-```
+<p align="center">
+<pre>
 Start Mining Session (24 hours)
          ↓
     Mine TheeCoin
@@ -206,7 +207,8 @@ Current Rate: 1 TC/day (decreasing)
 Automatic Distribution (86,400 seconds)
          ↓
     Rewards Deposited
-```
+</pre>
+</p>
 
 #### ✨ Mining Features
 
@@ -329,15 +331,18 @@ TheeCoin Wallet includes **revolutionary business features** designed for real-w
 
 #### 1️⃣ Download & Install
 
-```bash
+<p align="center">
+<pre>
 # Download the wallet for your platform
 # Run the installer
 # Launch TheeCoin Wallet
-```
+</pre>
+</p>
 
 #### 2️⃣ Create Your Wallet
 
-```
+<p align="center">
+<pre>
 Open TheeCoin Wallet
    ↓
 Click "Create New Wallet"
@@ -349,7 +354,8 @@ Verify your recovery phrase
 Set your wallet password (optional)
    ↓
 Wallet Ready!
-```
+</pre>
+</p>
 
 #### 3️⃣ Start Using TheeCoin
 
@@ -385,7 +391,8 @@ Wallet Ready!
 
 ### 📊 Complete Transaction Management
 
-```
+<p align="center">
+<pre>
 ┌─────────────────────────────────────────┐
 │        Transaction Dashboard            │
 ├─────────────────────────────────────────┤
@@ -395,7 +402,8 @@ Wallet Ready!
 │  ✓ Search transactions                  │
 │  ✓ Real-time balance updates            │
 └─────────────────────────────────────────┘
-```
+</pre>
+</p>
 
 ### 🔑 Private Information Management
 
@@ -458,7 +466,8 @@ TheeCoin includes sophisticated economic mechanisms that ensure value increases 
 
 #### 📊 How It Works
 
-```
+<p align="center">
+<pre>
 User Action (Mine/Purchase/Transact)
          ↓
 Removes Coin from Circulation
@@ -470,7 +479,8 @@ Official Price Increases
     Scarcity Grows
          ↓
  Collectible Value Rises
-```
+</pre>
+</p>
 
 </div>
 
