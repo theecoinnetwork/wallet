@@ -34,21 +34,21 @@
 
 ## 📖 Table of Contents
 
-- [About TheeCoin Wallet](#-about-theecoin-wallet)
-- [Why Choose TheeCoin?](#-why-choose-theecoin)
-- [Key Features](#-key-features)
-- [Security Architecture](#-security-architecture)
-- [Mining & Rewards](#-mining--rewards)
-- [Staking System](#-staking-system)
-- [Business Solutions](#-business-solutions)
-- [Download](#-download)
-- [Getting Started](#-getting-started)
-- [Wallet Features](#-wallet-features)
-- [Advantages Over Other Cryptos](#-advantages-over-bitcoin--other-cryptos)
-- [Legal & Compliance](#-legal--compliance)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [License](#-license)
+[About TheeCoin Wallet](#-about-theecoin-wallet)
+[Why Choose TheeCoin?](#-why-choose-theecoin)
+[Key Features](#-key-features)
+[Security Architecture](#-security-architecture)
+[Mining & Rewards](#-mining--rewards)
+[Staking System](#-staking-system)
+[Business Solutions](#-business-solutions)
+[Download](#-download)
+[Getting Started](#-getting-started)
+[Wallet Features](#-wallet-features)
+[Advantages Over Other Cryptos](#-advantages-over-bitcoin--other-cryptos)
+[Legal & Compliance](#-legal--compliance)
+[Contributing](#-contributing)
+[Support](#-support)
+[License](#-license)
 
 ---
 
@@ -60,12 +60,12 @@ TheeCoin Wallet is the official client for **TheeCoin**, a revolutionary cryptoc
 
 ### 🎯 Core Principles
 
-- **🛡️ Quantum-Resistant Security** - Future-proof protection
-- **⚡ Instant Transactions** - Zero confirmation time
-- **🚫 No Transaction Fees** - Completely free worldwide
-- **🔒 Private by Default** - Your financial privacy matters
-- **🆔 No KYC Required** - True financial freedom
-- **🌐 True Decentralization** - Cannot be controlled or manipulated
+**🛡️ Quantum-Resistant Security** Future-proof protection
+**⚡ Instant Transactions** Zero confirmation time
+**🚫 No Transaction Fees** Completely free worldwide
+**🔒 Private by Default** Your financial privacy matters
+**🆔 No KYC Required** True financial freedom
+**🌐 True Decentralization** Cannot be controlled or manipulated
 
 ---
 
@@ -75,19 +75,19 @@ TheeCoin isn't just another cryptocurrency—it's a **unique, pure collectible d
 
 ### ✨ Revolutionary Technology
 
-- **Fixed Supply:** Only 100 million coins will ever exist
-- **Mining Allocation:** 50 million reserved for free mining
-- **Special Reserves:** Dedicated allocations for staking, charity, and economic stimulus
-- **Automatic Price Appreciation:** Built-in mechanisms ensure value increases over time
-- **Environmental Friendly:** No energy waste unlike traditional proof-of-work systems
+**Fixed Supply:** Only 100 million coins will ever exist
+**Mining Allocation:** 50 million reserved for free mining
+**Special Reserves:** Dedicated allocations for staking, charity, and economic stimulus
+**Automatic Price Appreciation:** Built-in mechanisms ensure value increases over time
+**Environmental Friendly:** No energy waste unlike traditional proof-of-work systems
 
 ### 🎁 Network Benefits
 
-- **Node Rewards:** Earn TheeCoin by hosting network nodes
-- **Staking Rewards:** Up to 100% annual returns for long-term commitment
-- **Time-Based Mining:** Mine coins for free in 24-hour sessions
-- **Built-in Marketplace:** Buy and sell goods directly in the wallet
-- **Secure Chat:** Encrypted communication with other users
+**Node Rewards:** Earn TheeCoin by hosting network nodes
+**Staking Rewards:** Up to 100% annual returns for long-term commitment
+**Time-Based Mining:** Mine coins for free in 24-hour sessions
+**Built-in Marketplace:** Buy and sell goods directly in the wallet
+**Secure Chat:** Encrypted communication with other users
 
 ---
 
@@ -159,11 +159,11 @@ TheeCoin Wallet implements **military-grade security** that protects against bot
 
 ### 🎯 Security Highlights
 
-- **🔐 256-bit Entropy** - Maximum key strength
-- **🧠 512-bit Mixing** - Additional security layer
-- **⚛️ Algorithm Diversity** - Quantum-resistant design
-- **🛡️ Fixed Initialization Vectors** - Deterministic generation
-- **🔒 Triple Layer Protection** - Impenetrable security
+**🔐 256-bit Entropy** Maximum key strength
+**🧠 512-bit Mixing** Additional security layer
+**⚛️ Algorithm Diversity** Quantum-resistant design
+**🛡️ Fixed Initialization Vectors** Deterministic generation
+**🔒 Triple Layer Protection** Impenetrable security
 
 ---
 
@@ -200,11 +200,11 @@ Automatic Distribution (86,400 seconds)
 
 #### 🎁 Mining Allocation
 
-- **Total Mining Pool:** 50 million TheeCoin (50% of total supply)
-- **Starting Rate:** 1 TheeCoin per 24-hour session
-- **Rate Adjustment:** Decreases with each coin mined network-wide
-- **Hardware Required:** None - works on any device
-- **Energy Cost:** Negligible - environmentally sustainable
+**Total Mining Pool:** 50 million TheeCoin (50% of total supply)
+**Starting Rate:** 1 TheeCoin per 24-hour session
+**Rate Adjustment:** Decreases with each coin mined network-wide
+**Hardware Required:** None works on any device
+**Energy Cost:** Negligible environmentally sustainable
 
 ---
 
@@ -225,12 +225,12 @@ Lock your TheeCoin and earn attractive rewards. The longer you stake, the higher
 
 ### ✨ Staking Benefits
 
-- **⚡ Instant Rewards** - Automatic distribution when period ends
-- **🔒 Secure Locking** - Coins safely locked in the network
-- **🔓 Early Unlock** - Change stake or unlock anytime (still get partial rewards)
-- **🛡️ Network Support** - Help secure the ecosystem
-- **📈 Deflationary Pressure** - Staked coins reduce circulating supply
-- **🎯 Scheduled Emissions** - Predictable returns, no market volatility
+**⚡ Instant Rewards** Automatic distribution when period ends
+**🔒 Secure Locking** Coins safely locked in the network
+**🔓 Early Unlock** Change stake or unlock anytime (still get partial rewards)
+**🛡️ Network Support** Help secure the ecosystem
+**📈 Deflationary Pressure** Staked coins reduce circulating supply
+**🎯 Scheduled Emissions** Predictable returns, no market volatility
 
 ---
 
@@ -255,12 +255,12 @@ TheeCoin Wallet includes **revolutionary business features** designed for real-w
 
 #### 💡 Business Advantages
 
-- **Zero Transaction Fees** - Keep 100% of payments
-- **Instant Settlement** - No waiting for confirmations
-- **No Chargebacks** - Irreversible transactions protect merchants
-- **Global Customer Base** - Accept payments from anywhere
-- **Privacy Protected** - No sensitive customer data to manage
-- **Easy Integration** - Simple copy-paste implementation
+**Zero Transaction Fees** Keep 100% of payments
+**Instant Settlement** No waiting for confirmations
+**No Chargebacks** Irreversible transactions protect merchants
+**Global Customer Base** Accept payments from anywhere
+**Privacy Protected** No sensitive customer data to manage
+**Easy Integration** Simple copy-paste implementation
 
 #### 🚀 Getting Started
 
@@ -295,10 +295,10 @@ TheeCoin Wallet includes **revolutionary business features** designed for real-w
 
 ### ✅ System Requirements
 
-- **Operating System:** Windows 10+, macOS 10.13+, Linux (Ubuntu 18.04+)
-- **RAM:** 2GB minimum, 4GB recommended
-- **Storage:** 500MB free space
-- **Internet:** Broadband connection required
+**Operating System:** Windows 10+, macOS 10.13+, Linux (Ubuntu 18.04+)
+**RAM:** 2GB minimum, 4GB recommended
+**Storage:** 500MB free space
+**Internet:** Broadband connection required
 
 ---
 
@@ -332,31 +332,31 @@ Wallet Ready!
 
 #### 3️⃣ Start Using TheeCoin
 
-- **💰 Receive:** Share your wallet address or QR code
-- **💸 Send:** Enter recipient address and amount
-- **⛏️ Mine:** Start a 24-hour mining session
-- **💎 Stake:** Lock coins for rewards
-- **🛒 Shop:** Browse the marketplace
+**💰 Receive:** Share your wallet address or QR code
+**💸 Send:** Enter recipient address and amount
+**⛏️ Mine:** Start a 24-hour mining session
+**💎 Stake:** Lock coins for rewards
+**🛒 Shop:** Browse the marketplace
 
 ### 🔐 Security Best Practices
 
 1. **✅ Backup Your Recovery Phrase**
-   - Write down all 24 words in order
-   - Store in a secure, offline location
-   - Never share with anyone
-   - Consider multiple secure backup copies
+   Write down all 24 words in order
+   Store in a secure, offline location
+   Never share with anyone
+   Consider multiple secure backup copies
 
 2. **🔒 Secure Your Device**
-   - Use strong device passwords
-   - Enable device encryption
-   - Keep software updated
-   - Use antivirus protection
+   Use strong device passwords
+   Enable device encryption
+   Keep software updated
+   Use antivirus protection
 
 3. **🛡️ Protect Your Privacy**
-   - Don't share wallet addresses publicly
-   - Use different addresses for different purposes
-   - Be cautious with chat features
-   - Verify recipient addresses before sending
+   Don't share wallet addresses publicly
+   Use different addresses for different purposes
+   Be cautious with chat features
+   Verify recipient addresses before sending
 
 ---
 
@@ -378,21 +378,21 @@ Wallet Ready!
 
 ### 🔑 Private Information Management
 
-- **🔐 View Private Keys** - Access when needed (securely encrypted)
-- **📝 Recovery Phrases** - Backup and verification tools
-- **📤 Wallet Export** - Transfer to other devices
-- **🔒 Encryption Options** - Additional security layers
-- **💾 Backup Tools** - Multiple backup formats
+**🔐 View Private Keys** Access when needed (securely encrypted)
+**📝 Recovery Phrases** Backup and verification tools
+**📤 Wallet Export** Transfer to other devices
+**🔒 Encryption Options** Additional security layers
+**💾 Backup Tools** Multiple backup formats
 
 ### 💬 Secure Communication
 
 TheeCoin Wallet includes built-in **encrypted chat**:
 
-- **🔒 End-to-End Encryption** - Your messages are private
-- **🚫 No Message Storage** - Nothing saved on servers
-- **👥 Peer-to-Peer** - Direct communication
-- **🌐 Global Reach** - Chat with users worldwide
-- **⚡ Instant Delivery** - Real-time messaging
+**🔒 End-to-End Encryption** Your messages are private
+**🚫 No Message Storage** Nothing saved on servers
+**👥 Peer-to-Peer** Direct communication
+**🌐 Global Reach** Chat with users worldwide
+**⚡ Instant Delivery** Real-time messaging
 
 ---
 
@@ -457,12 +457,12 @@ Official Price Increases
 
 #### 💡 Economic Principles
 
-- **📉 Mining Rate Reduction** - Decreasing supply increases scarcity
-- **🔥 Deflationary Mechanism** - Built-in scarcity mechanics
-- **💎 Network Value Growth** - Follows Metcalfe's Law
-- **⚖️ Supply-Demand Economics** - Natural upward pressure
-- **🏦 Institutional Adoption** - Superior tech attracts capital
-- **🌍 Global Network Effects** - Utility value increases exponentially
+**📉 Mining Rate Reduction** Decreasing supply increases scarcity
+**🔥 Deflationary Mechanism** Built-in scarcity mechanics
+**💎 Network Value Growth** Follows Metcalfe's Law
+**⚖️ Supply-Demand Economics** Natural upward pressure
+**🏦 Institutional Adoption** Superior tech attracts capital
+**🌍 Global Network Effects** Utility value increases exponentially
 
 > **⚠️ Important Disclaimer:**
 > This is NOT investment advice or a promise of profit. TheeCoin is a limited-edition digital collectible with a system-defined price mechanism. All price movement is driven solely by user actions and network participation, similar to rare art, trading cards, or luxury goods.
@@ -500,43 +500,43 @@ TheeCoin is designed as a **decentralized, non-custodial digital collectible sys
 
 #### ✅ Non-Custodial Protocol
 
-- Users always control their own private keys
-- Protocol never takes possession of user assets
-- No forwarding of payments or redemption services
-- No financial custody or intermediation
+Users always control their own private keys
+Protocol never takes possession of user assets
+No forwarding of payments or redemption services
+No financial custody or intermediation
 
 #### ✅ Closed Collectible Ecosystem
 
-- Self-contained token within its own ecosystem
-- No conversion or redemption for fiat/crypto
-- No brokerage, swapping, or price-setting functions
-- Not classified as a financial exchange
+Self-contained token within its own ecosystem
+No conversion or redemption for fiat/crypto
+No brokerage, swapping, or price-setting functions
+Not classified as a financial exchange
 
 #### ✅ Protocol-Defined Scarcity
 
-- Automatic price adjustments from transparent system rules
-- No guaranteed profits or promised returns
-- No investment agreements or staking of external assets
-- Not an investment contract or security
+Automatic price adjustments from transparent system rules
+No guaranteed profits or promised returns
+No investment agreements or staking of external assets
+Not an investment contract or security
 
 ### 🌐 Regulatory Position
 
 TheeCoin does **NOT** operate as:
 
-- ❌ Broker-dealers
-- ❌ Money transmitters
-- ❌ Remittance services
-- ❌ Payment processors
-- ❌ Custodial wallet providers
-- ❌ Exchanges or trading platforms
-- ❌ Securities or investment contracts
+❌ Broker-dealers
+❌ Money transmitters
+❌ Remittance services
+❌ Payment processors
+❌ Custodial wallet providers
+❌ Exchanges or trading platforms
+❌ Securities or investment contracts
 
 ### 📋 User Responsibilities
 
-- **💼 Tax Obligations** - Users responsible for their own jurisdiction
-- **🔐 Key Management** - Users control their own private keys
-- **⚖️ Legal Compliance** - Users responsible for local law compliance
-- **📊 Record Keeping** - Users manage their own transaction records
+**💼 Tax Obligations** Users responsible for their own jurisdiction
+**🔐 Key Management** Users control their own private keys
+**⚖️ Legal Compliance** Users responsible for local law compliance
+**📊 Record Keeping** Users manage their own transaction records
 
 ### ⚠️ Important Legal Disclaimer
 
@@ -592,32 +592,32 @@ No! TheeCoin has ZERO transaction fees. All transfers are completely free, forev
 
 ### 🎯 26 Compelling Reasons to Choose TheeCoin
 
-1. ✅ **Quantum-Proof Security** - Protected against future quantum attacks
-2. ✅ **Instant Transactions** - Zero confirmation time, immediate finality
-3. ✅ **No Transaction Fees** - Completely free transfers worldwide
-4. ✅ **True Decentralization** - Cannot be controlled by anyone
-5. ✅ **Energy Efficient** - Environmentally friendly consensus
-6. ✅ **ASIC Resistant** - Fair, free mining for everyone
-7. ✅ **Built-in Marketplace** - Discover and sell within wallet
-8. ✅ **Free Business Tools** - Complete payment processing included
-9. ✅ **Mobile Optimized** - Perfect experience on all devices
-10. ✅ **Military-Grade Encryption** - 1GB memory requirement per attack
-11. ✅ **Multi-Algorithm Security** - 5 different hash functions
-12. ✅ **24-Word Recovery** - Industry standard BIP-39 compatible
-13. ✅ **Automatic Price Appreciation** - Value increases over time
-14. ✅ **Global Network** - Worldwide nodes ensure 24/7 availability
-15. ✅ **Integrated Chat** - Encrypted communication with users
-16. ✅ **Mining Rewards** - Earn through efficient mining system
-17. ✅ **Professional UI/UX** - Beautiful, intuitive interface
-18. ✅ **Cross-Platform** - Windows, macOS, Linux, Android
-19. ✅ **Web Wallet Available** - For those who prefer browser-based
-20. ✅ **Community Driven** - Controlled by users, not corporations
-21. ✅ **Financial Freedom** - True peer-to-peer private transactions
-22. ✅ **Future Proof** - Technology designed to last decades
-23. ✅ **Early Adoption Advantage** - Get in before mass adoption
-24. ✅ **Complete Transaction Privacy** - Only you see your activities
-25. ✅ **No Identity Verification** - Create wallets instantly, no KYC
-26. ✅ **Fixed 100M Base Supply** - Guaranteed scarcity
+1. ✅ **Quantum-Proof Security** Protected against future quantum attacks
+2. ✅ **Instant Transactions** Zero confirmation time, immediate finality
+3. ✅ **No Transaction Fees** Completely free transfers worldwide
+4. ✅ **True Decentralization** Cannot be controlled by anyone
+5. ✅ **Energy Efficient** Environmentally friendly consensus
+6. ✅ **ASIC Resistant** Fair, free mining for everyone
+7. ✅ **Built-in Marketplace** Discover and sell within wallet
+8. ✅ **Free Business Tools** Complete payment processing included
+9. ✅ **Mobile Optimized** Perfect experience on all devices
+10. ✅ **Military-Grade Encryption** 1GB memory requirement per attack
+11. ✅ **Multi-Algorithm Security** 5 different hash functions
+12. ✅ **24-Word Recovery** Industry standard BIP-39 compatible
+13. ✅ **Automatic Price Appreciation** Value increases over time
+14. ✅ **Global Network** Worldwide nodes ensure 24/7 availability
+15. ✅ **Integrated Chat** Encrypted communication with users
+16. ✅ **Mining Rewards** Earn through efficient mining system
+17. ✅ **Professional UI/UX** Beautiful, intuitive interface
+18. ✅ **Cross-Platform** Windows, macOS, Linux, Android
+19. ✅ **Web Wallet Available** For those who prefer browser-based
+20. ✅ **Community Driven** Controlled by users, not corporations
+21. ✅ **Financial Freedom** True peer-to-peer private transactions
+22. ✅ **Future Proof** Technology designed to last decades
+23. ✅ **Early Adoption Advantage** Get in before mass adoption
+24. ✅ **Complete Transaction Privacy** Only you see your activities
+25. ✅ **No Identity Verification** Create wallets instantly, no KYC
+26. ✅ **Fixed 100M Base Supply** Guaranteed scarcity
 
 </div>
 
@@ -631,15 +631,15 @@ TheeCoin represents the future of cryptocurrency—instant, private, quantum-res
 
 1. **📥 Download** the wallet for your platform
 2. **🔐 Create** your secure wallet with 24-word recovery phrase
-3. **💰 Start Using** TheeCoin - mine, stake, send, receive, and shop instantly
+3. **💰 Start Using** TheeCoin mine, stake, send, receive, and shop instantly
 
 ### 🎯 Why Wait?
 
-- ⚡ **Instant transactions** with zero fees
-- 🔒 **Complete privacy** - your financial freedom matters
-- 💎 **Early adoption advantage** - get in before mass adoption
-- 🆓 **Free mining** - no expensive hardware needed
-- 💰 **Staking rewards** - earn up to 100% annually
+⚡ **Instant transactions** with zero fees
+🔒 **Complete privacy** your financial freedom matters
+💎 **Early adoption advantage** get in before mass adoption
+🆓 **Free mining** no expensive hardware needed
+💰 **Staking rewards** earn up to 100% annually
 
 ---
 
