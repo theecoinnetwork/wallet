@@ -67,16 +67,25 @@ For **TheeCoin Node**, please visit: **[https://github.com/theecoinnetwork/TheeC
 
 TheeCoin Wallet is the official client for **TheeCoin**, a revolutionary cryptocurrency designed to solve every major problem plaguing Bitcoin, other cryptocurrencies, and traditional fiat currencies. With a fixed base supply of only **100 million coins**, TheeCoin represents the latest evolution in cryptocurrency technology.
 
+<br>
+
 ### 🎯 Core Principles
 
 **🛡️ Quantum-Resistant Security** Future-proof protection
+<br>
 **⚡ Instant Transactions** Zero confirmation time
+<br>
 **🚫 No Transaction Fees** Completely free worldwide
+<br>
 **🔒 Private by Default** Your financial privacy matters
+<br>
 **🆔 No KYC Required** True financial freedom
+<br>
 **🌐 True Decentralization** Cannot be controlled or manipulated
 
 ---
+
+<br>
 
 ## 💡 Why Choose TheeCoin?
 
@@ -655,7 +664,6 @@ No! TheeCoin has ZERO transaction fees. All transfers are completely free, forev
 
 </div>
 
-<br>
 <br>
 
 <div align="center">
