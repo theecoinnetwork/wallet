@@ -84,8 +84,6 @@ TheeCoin Wallet is the official client for **TheeCoin**, a revolutionary cryptoc
 
 ---
 
-<br>
-
 ## 💡 Why Choose TheeCoin?
 
 TheeCoin isn't just another cryptocurrency—it's a **unique, pure collectible decentralized digital commodity** designed to provide:
