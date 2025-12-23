@@ -1,0 +1,4 @@
+# TheeCoin Network Nodes
+# Add one node per line, format: nodeId
+# Your wallet will connect to these nodes for transactions
+
