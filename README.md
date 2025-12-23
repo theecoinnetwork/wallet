@@ -683,9 +683,12 @@ TheeCoin represents the future of cryptocurrency—instant, private, quantum-res
 
 ---
 
-© 2025 TheeCoin & TheeCoin Network
-Changing the World One Transaction at a Time
+**Made with 💎 by the TheeCoin Network Community**
+
+*Changing the World One Transaction at a Time*
 
 ---
 
 ⭐ **Star this repository if you believe in financial freedom!** ⭐
+
+</div>
