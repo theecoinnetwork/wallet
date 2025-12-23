@@ -24,7 +24,7 @@ For **TheeCoin Node**, please visit: **[https://github.com/theecoinnetwork/TheeC
 
 ---
 
-[Download Wallet](#-download) • [Features](#-key-features) • [Getting Started](#-getting-started) • [Documentation](#-documentation)
+[Download Wallet](#-download) • [Features](#-key-features) • [Getting Started](#-getting-started) 
 
 </div>
 
@@ -601,33 +601,32 @@ No! TheeCoin has ZERO transaction fees. All transfers are completely free, forev
 
 ### 🎯 26 Compelling Reasons to Choose TheeCoin
 
-1. ✅ **Quantum-Proof Security** Protected against future quantum attacks
-2. ✅ **Instant Transactions** Zero confirmation time, immediate finality
-3. ✅ **No Transaction Fees** Completely free transfers worldwide
-4. ✅ **True Decentralization** Cannot be controlled by anyone
-5. ✅ **Energy Efficient** Environmentally friendly consensus
-6. ✅ **ASIC Resistant** Fair, free mining for everyone
-7. ✅ **Built-in Marketplace** Discover and sell within wallet
-8. ✅ **Free Business Tools** Complete payment processing included
-9. ✅ **Mobile Optimized** Perfect experience on all devices
-10. ✅ **Military-Grade Encryption** 1GB memory requirement per attack
-11. ✅ **Multi-Algorithm Security** 5 different hash functions
-12. ✅ **24-Word Recovery** Industry standard BIP-39 compatible
-13. ✅ **Automatic Price Appreciation** Value increases over time
-14. ✅ **Global Network** Worldwide nodes ensure 24/7 availability
-15. ✅ **Integrated Chat** Encrypted communication with users
-16. ✅ **Mining Rewards** Earn through efficient mining system
-17. ✅ **Professional UI/UX** Beautiful, intuitive interface
-18. ✅ **Cross-Platform** Windows, macOS, Linux, Android
-19. ✅ **Web Wallet Available** For those who prefer browser-based
-20. ✅ **Community Driven** Controlled by users, not corporations
-21. ✅ **Financial Freedom** True peer-to-peer private transactions
-22. ✅ **Future Proof** Technology designed to last decades
-23. ✅ **Early Adoption Advantage** Get in before mass adoption
-24. ✅ **Complete Transaction Privacy** Only you see your activities
-25. ✅ **No Identity Verification** Create wallets instantly, no KYC
-26. ✅ **Fixed 100M Base Supply** Guaranteed scarcity
-
+✅ **Quantum-Proof Security** - Protected against future quantum attacks
+✅ **Instant Transactions** - Zero confirmation time, immediate finality
+✅ **No Transaction Fees** - Completely free transfers worldwide
+✅ **True Decentralization** - Cannot be controlled by anyone
+✅ **Energy Efficient** - Environmentally friendly consensus
+✅ **ASIC Resistant** - Fair, free mining for everyone
+✅ **Built-in Marketplace** - Discover and sell within wallet
+✅ **Free Business Tools** - Complete payment processing included
+✅ **Mobile Optimized** - Perfect experience on all devices
+✅ **Military-Grade Encryption** - 1GB memory requirement per attack
+✅ **Multi-Algorithm Security** - 5 different hash functions
+✅ **24-Word Recovery** - Industry standard BIP-39 compatible
+✅ **Automatic Price Appreciation** - Value increases over time
+✅ **Global Network** - Worldwide nodes ensure 24/7 availability
+✅ **Integrated Chat** - Encrypted communication with user
+✅ **Mining Rewards** - Earn through efficient mining system
+✅ **Professional UI/UX** - Beautiful, intuitive interface
+✅ **Cross-Platform** - Windows, macOS, Linux, Android
+✅ **Web Wallet Available** - For those who prefer browser-based
+✅ **Community Driven** - Controlled by users, not corporations
+✅ **Financial Freedom** - True peer-to-peer private transactions
+✅ **Future Proof** - Technology designed to last decades
+✅ **Early Adoption Advantage** - Get in before mass adoption
+✅ **Complete Transaction Privacy** - Only you see your activities
+✅ **No Identity Verification** - Create wallets instantly, no KYC
+✅ **Fixed 100M Base Supply** - Guaranteed scarcity
 </div>
 
 <div align="center">
@@ -638,18 +637,22 @@ TheeCoin represents the future of cryptocurrency—instant, private, quantum-res
 
 ### 🚀 Get Started Today
 
-1. **📥 Download** the wallet for your platform
-2. **🔐 Create** your secure wallet with 24-word recovery phrase
-3. **💰 Start Using** TheeCoin mine, stake, send, receive, and shop instantly
+**📥 Download** the wallet for your platform
+**🔐 Create** your secure wallet with 24-word recovery phrase
+**💰 Start Using** TheeCoin mine, stake, send, receive, and shop instantly
 
 ### 🎯 Why Wait?
 
 ⚡ **Instant transactions** with zero fees
+<br>
 🔒 **Complete privacy** your financial freedom matters
+<br>
 💎 **Early adoption advantage** get in before mass adoption
+<br>
 🆓 **Free mining** no expensive hardware needed
+<br>
 💰 **Staking rewards** earn up to 100% annually
-
+<br>
 ---
 
 </div>
@@ -663,6 +666,7 @@ TheeCoin represents the future of cryptocurrency—instant, private, quantum-res
 ---
 
 © 2025 TheeCoin & TheeCoin Network
+<br>
 Changing the World One Transaction at a Time
 
 ---
