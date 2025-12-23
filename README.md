@@ -657,13 +657,11 @@ TheeCoin does **NOT** operate as:
 **LEGAL DISCLAIMER – MUST READ BEFORE USING**
 >
 TheeCoin is an **experimental decentralized digital collectible token** on the TheeCoin Network blockchain. 
-
 TheeCoin is **NOT** legal tender, **NOT** money, **NOT** a currency, and carries **NO guaranteed or intrinsic value**.
 >
 No profits, returns, appreciation, or outcomes are promised or guaranteed at any time. 
-
-Users are responsible for their own compliance with applicable laws. Use of the system constitutes acceptance of these terms. 
-
+Users are responsible for their own compliance with applicable laws. 
+Use of the system constitutes acceptance of these terms. 
 This is not financial, legal, or tax advice.
 
 ---
