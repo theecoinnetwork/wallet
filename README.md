@@ -1,4 +1,4 @@
-# 💎 TheeCoin Wallet
+# <center> 💎 TheeCoin Wallet </center>
 
 <div align="center">
 
